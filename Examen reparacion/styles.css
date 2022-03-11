@@ -1,0 +1,106 @@
+body{
+	background-image: url(fondo2.jpg);
+}
+
+.cuadro1{
+       margin: 0px 0px 0px 0px;
+       padding: 10px 10px 10px 10px;
+       width: 200px;
+	height: 200px;
+	border: 2px solid black;
+	background-color: salmon;
+}
+
+.cuadro2{
+  margin: 0px 0px 0px 0px; 
+       padding: 5px 5px 5px 5px;
+       width: 250px;
+	height: 2200px;
+	border: 2px solid black;
+	background-color: salmon;
+
+}
+.cuadro3{
+  margin: 0px 0px 0px 0px; 
+       padding: 5px 5px 5px 5px;
+       width: 200px;
+	height: 200px;
+	border: 2px solid black;
+	background-color: salmon;
+
+}
+.cuadro4{
+  margin: 0px 0px 0px 0px; 
+       padding: 5px 5px 5px 5px;
+       width: 200px;
+	height: 200px;
+	border: 2px solid black;
+	background-color: salmon;
+
+}
+
+.cuadro5{
+  margin: 0px 0px 0px 0px; 
+       padding: 5px 5px 5px 5px;
+       width: 200px;
+	height: 200px;
+	border: 2px solid black;
+	background-color: salmon;
+
+}
+.cubo{
+	background-color: lightseagreen; 
+	margin: 150px 15px 15px 500px;
+    padding: 10px 10px 10px 10px;
+	width: 200px;
+	height: 250px;
+	border: 10px solid black;
+}
+.caja2{
+	background-color: lightseagreen; 
+	margin: 100px 15px 15px 10px;
+    padding: 10px 10px 10px 10px;
+	width: 700px;
+	height: 700px;
+	border: 10px solid black;
+}
+.caja3{
+	background-color: lightseagreen; 
+	margin: 20px 15px 15px 10px;
+    padding: 10px 10px 10px 10px;
+	width: 500px;
+	height: 410px;
+	border: 10px solid black;
+}
+.caja4{
+		background-color: lightseagreen; 
+	margin: 20px 15px 15px 10px;
+    padding: 10px 10px 10px 10px;
+	width: 500px;
+	height: 150px;
+	border: 10px solid black;
+}
+.caja5{
+		background-color: lightseagreen; 
+	margin: 100px 15px 15px 10px;
+    padding: 10px 10px 10px 10px;
+	width: 700px;
+	height: 300px;
+	border: 10px solid black;
+}
+.caja6{
+		background-color: lightseagreen; 
+	margin: 100px 15px 15px 10px;
+    padding: 10px 10px 10px 10px;
+	width: 400px;
+	height: 700px;
+	border: 10px solid black;
+}
+.caja7{
+			background-color: lightseagreen; 
+	margin: -700px 15px 15px 500px;
+    padding: 10px 10px 10px 10px;
+	width: 400px;
+	height: 420px;
+	border: 10px solid black;
+}
